@@ -41,6 +41,7 @@ Całość cyklicznie aktualizuje się w WM_TIMER. Po każdej zmianie stanu wywo�
 
 
 RYSOWANIE
+
 Część związana z rysowaniem wszystkiego co widzimy na ekranie znajduje się w WM_PAINT
 Zdecydowana większość zmiennych których użyliśmy do poprawnego umiejscowania elementów windy na ekranie użytkownika uzależniona jest od rozmiaru wyświetlacza użytkownika który jest każdorazowo pobierany przez program, 
 dodatkowo w "stelarzu" naszej windy znajduje się niewidzialny prostokąt który również ułatwił nam umieszczenie pięter i drzwi na odpowiednich wysokościach
