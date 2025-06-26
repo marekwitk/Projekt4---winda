@@ -6,7 +6,7 @@ LOGIKA
 
 Kliknięcie w przycisk na danym piętrze dodaje nową instancję ProstokatAnimowany do odpowiedniego piętra w tablicy prostokatikiNaPietrze. Nowy pasażer ma zadany cel (number) i początkową pozycję X (po lewej lub prawej stronie).
 
-3. Sterowanie windą i kierunek jazdy
+2. Sterowanie windą i kierunek jazdy
 
 trybJazdy (W_GORE, W_DOL, IDLE) ustala ogólny kierunek jazdy windy.
 
